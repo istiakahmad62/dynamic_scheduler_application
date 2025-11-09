@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dynamic Scheduler Application
 
-## Getting Started
+A simple scheduling application built with **Next.js** and a **JSON Server** (used as a mock API).
 
-First, run the development server:
+---
+
+## 🚀 Installation
+
+1. **Clone the repository** or navigate to your project directory:
+
+   ```bash
+   cd scheduler-project
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+---
+
+## 🖥️ Running the Application
+
+You need to run **two servers simultaneously**:
+
+- One for the **JSON Server (Mock API)**
+- Another for the **Next.js Development Server**
+
+### Terminal 1: Start JSON Server (Mock API)
+
+```bash
+npm run json-server
+```
+
+> This starts the mock API server at **http://localhost:3001**
+
+### Terminal 2: Start Next.js Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> This starts the Next.js app at **http://localhost:3000**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Tech Stack
 
-## Learn More
+- **Next.js** — Frontend framework
+- **JSON Server** — Mock REST API
+- **Node.js & npm** — Package management and scripts
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧑‍💻 Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Command               | Description                         |
+| --------------------- | ----------------------------------- |
+| `npm run dev`         | Runs the Next.js development server |
+| `npm run json-server` | Runs the mock JSON API server       |
+| `npm run build`       | Builds the project for production   |
+| `npm run start`       | Starts the production server        |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the **MIT License**.
+
+---
+
+## 💬 Feedback
+
+If you encounter any issues or have suggestions, feel free to open an issue or contribute via pull requests.
