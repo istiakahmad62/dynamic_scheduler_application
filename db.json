@@ -1,0 +1,613 @@
+{
+  "teachers": [
+    {
+      "id": "LX",
+      "name": "LX",
+      "division": "MS",
+      "otherRole": "",
+      "maxLoad": 18,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-2",
+          "courseName": "CCW(E)6",
+          "courseGroup": "CCW6",
+          "load": 2,
+          "students": 10
+        },
+        {
+          "courseId": "ccw6-1",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 6,
+          "students": 20
+        },
+        {
+          "courseId": "ccw7-1",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 9,
+          "students": 25
+        }
+      ]
+    },
+    {
+      "id": "JX",
+      "name": "JX",
+      "division": "MS",
+      "otherRole": "",
+      "maxLoad": 18,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-3",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 8,
+          "students": 22
+        },
+        {
+          "courseId": "ccw8-1",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 9,
+          "students": 24
+        }
+      ]
+    },
+    {
+      "id": "JY",
+      "name": "JY",
+      "division": "MS",
+      "otherRole": "",
+      "maxLoad": 18,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-4",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 9,
+          "students": 23
+        },
+        {
+          "courseId": "ccw7-2",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 9,
+          "students": 24
+        }
+      ]
+    },
+    {
+      "id": "JK",
+      "name": "JK",
+      "division": "MS",
+      "otherRole": "",
+      "maxLoad": 18,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw7-3",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 8,
+          "students": 26
+        },
+        {
+          "courseId": "ccw8-2",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 9,
+          "students": 28
+        }
+      ]
+    },
+    {
+      "id": "MW",
+      "name": "MW",
+      "division": "MS",
+      "otherRole": "MS CHN",
+      "maxLoad": 18,
+      "preps": 4,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-5",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 2,
+          "students": 15
+        },
+        {
+          "courseId": "ccw8-3",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 9,
+          "students": 25
+        },
+        {
+          "courseId": "ccw9-1",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 3,
+          "students": 18
+        }
+      ]
+    },
+    {
+      "id": "CM",
+      "name": "CM",
+      "division": "MS",
+      "otherRole": "G8 Drama",
+      "maxLoad": 18,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-6",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 6,
+          "students": 20
+        },
+        {
+          "courseId": "ccw8-4",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 10,
+          "students": 30
+        }
+      ]
+    },
+    {
+      "id": "VH",
+      "name": "VH",
+      "division": "MS",
+      "otherRole": "",
+      "maxLoad": 18,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw8-5",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 8,
+          "students": 24
+        },
+        {
+          "courseId": "ccw10-1",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 9,
+          "students": 27
+        }
+      ]
+    },
+    {
+      "id": "RM",
+      "name": "RM",
+      "division": "MS",
+      "otherRole": "Drama",
+      "maxLoad": 0,
+      "preps": 0,
+      "courseAssignments": []
+    },
+    {
+      "id": "NeD",
+      "name": "NeD",
+      "division": "MS",
+      "otherRole": "DL +TSET",
+      "maxLoad": 15,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw6-7",
+          "courseName": "CCW6",
+          "courseGroup": "CCW6",
+          "load": 9,
+          "students": 22
+        },
+        {
+          "courseId": "ccw7-4",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 6,
+          "students": 18
+        }
+      ]
+    },
+    {
+      "id": "XJ",
+      "name": "XJ",
+      "division": "MS",
+      "otherRole": "GLL + TSET",
+      "maxLoad": 15,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw7-5",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 6,
+          "students": 16
+        },
+        {
+          "courseId": "ccw7-6",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 6,
+          "students": 17
+        },
+        {
+          "courseId": "ccw8-6",
+          "courseName": "CCW8",
+          "courseGroup": "CCW8",
+          "load": 3,
+          "students": 12
+        }
+      ]
+    },
+    {
+      "id": "KS",
+      "name": "KS",
+      "division": "HS",
+      "otherRole": "History",
+      "maxLoad": 21,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw10-2",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 9,
+          "students": 28
+        },
+        {
+          "courseId": "grade1-1",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 15
+        }
+      ]
+    },
+    {
+      "id": "WY",
+      "name": "WY",
+      "division": "HS",
+      "otherRole": "GLL",
+      "maxLoad": 18,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw9-2",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 9,
+          "students": 26
+        },
+        {
+          "courseId": "ccw9-3",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 3,
+          "students": 12
+        },
+        {
+          "courseId": "ccw10-3",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 6,
+          "students": 20
+        }
+      ]
+    },
+    {
+      "id": "NG",
+      "name": "NG",
+      "division": "HS",
+      "otherRole": "History",
+      "maxLoad": 21,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw10-4",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 3,
+          "students": 15
+        },
+        {
+          "courseId": "grade1-2",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 16
+        },
+        {
+          "courseId": "grade2-1",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 10,
+          "students": 30
+        }
+      ]
+    },
+    {
+      "id": "DJ",
+      "name": "DJ",
+      "division": "HS",
+      "otherRole": "M + Dorm Hea",
+      "maxLoad": 21,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw7-7",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 4,
+          "students": 14
+        },
+        {
+          "courseId": "grade1-3",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 17
+        },
+        {
+          "courseId": "grade2-2",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 10,
+          "students": 28
+        }
+      ]
+    },
+    {
+      "id": "HM",
+      "name": "HM",
+      "division": "HS",
+      "otherRole": "TOK +BM",
+      "maxLoad": 21,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "grade1-4",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 16
+        },
+        {
+          "courseId": "grade2-3",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 10,
+          "students": 29
+        }
+      ]
+    },
+    {
+      "id": "OB",
+      "name": "OB",
+      "division": "HS",
+      "otherRole": "Tok + New",
+      "maxLoad": 21,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "grade1-5",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 15
+        },
+        {
+          "courseId": "grade2-4",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 10,
+          "students": 27
+        }
+      ]
+    },
+    {
+      "id": "MD",
+      "name": "MD",
+      "division": "HS",
+      "otherRole": "DoS",
+      "maxLoad": 0,
+      "preps": 0,
+      "courseAssignments": []
+    },
+    {
+      "id": "HJ",
+      "name": "HJ",
+      "division": "HS",
+      "otherRole": "Econ + Tok",
+      "maxLoad": 21,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "grade1-6",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 15,
+          "students": 42
+        }
+      ]
+    },
+    {
+      "id": "LZ",
+      "name": "LZ",
+      "division": "HS",
+      "otherRole": "DL",
+      "maxLoad": 15,
+      "preps": 3,
+      "courseAssignments": [
+        {
+          "courseId": "ccw7-8",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 2,
+          "students": 10
+        },
+        {
+          "courseId": "grade1-7",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 16
+        },
+        {
+          "courseId": "grade2-5",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 10,
+          "students": 26
+        }
+      ]
+    },
+    {
+      "id": "LH",
+      "name": "LH",
+      "division": "HS",
+      "otherRole": "TSET",
+      "maxLoad": 21,
+      "preps": 4,
+      "courseAssignments": [
+        {
+          "courseId": "ccw9-4",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 6,
+          "students": 19
+        },
+        {
+          "courseId": "ccw9-5",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 6,
+          "students": 18
+        },
+        {
+          "courseId": "ccw10-5",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 6,
+          "students": 21
+        },
+        {
+          "courseId": "ccw10-6",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 3,
+          "students": 14
+        }
+      ]
+    },
+    {
+      "id": "NT",
+      "name": "NT",
+      "division": "HS",
+      "otherRole": "NEW",
+      "maxLoad": 21,
+      "preps": 4,
+      "courseAssignments": [
+        {
+          "courseId": "ccw7-9",
+          "courseName": "CCW7",
+          "courseGroup": "CCW7",
+          "load": 2,
+          "students": 11
+        },
+        {
+          "courseId": "ccw9-6",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 10,
+          "students": 28
+        },
+        {
+          "courseId": "grade2-6",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 2,
+          "students": 8
+        }
+      ]
+    },
+    {
+      "id": "HO",
+      "name": "HO",
+      "division": "HS",
+      "otherRole": "Capstone C",
+      "maxLoad": 18,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw9-7",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 9,
+          "students": 25
+        },
+        {
+          "courseId": "ccw10-7",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 9,
+          "students": 27
+        }
+      ]
+    },
+    {
+      "id": "RA",
+      "name": "RA",
+      "division": "HS",
+      "otherRole": "SA + TSET",
+      "maxLoad": 12,
+      "preps": 2,
+      "courseAssignments": [
+        {
+          "courseId": "ccw9-8",
+          "courseName": "CCW9",
+          "courseGroup": "CCW9",
+          "load": 6,
+          "students": 18
+        },
+        {
+          "courseId": "ccw10-8",
+          "courseName": "CCW10",
+          "courseGroup": "CCW10",
+          "load": 6,
+          "students": 20
+        }
+      ]
+    },
+    {
+      "id": "WG",
+      "name": "WG",
+      "division": "HS",
+      "otherRole": "DL + Tok + ESL",
+      "maxLoad": 18,
+      "preps": 4,
+      "courseAssignments": [
+        {
+          "courseId": "grade1-8",
+          "courseName": "Grade 1",
+          "courseGroup": "Grade1",
+          "load": 5,
+          "students": 15
+        },
+        {
+          "courseId": "grade2-7",
+          "courseName": "Grade 2",
+          "courseGroup": "Grade2",
+          "load": 5,
+          "students": 16
+        }
+      ]
+    }
+  ]
+}
